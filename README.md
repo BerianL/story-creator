@@ -14,7 +14,7 @@ The core functionality of the application involves:
 
 ## Usage
 
-1. Open your web browser and go to [www.berianlowe.com/story-generator](https://www.berianlowe.com/story-generator).
+1. Open your web browser and go to [www.berianlowe.com/story-creator](https://www.berianlowe.com/story-creator).
 2. Click the "Start" button on the webpage to begin the story generation process.
 3. Follow the prompts to input various words and elements.
 4. Once all prompts are completed, the application will generate a unique story based on your inputs and display it on the webpage.
