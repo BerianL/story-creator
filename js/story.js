@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', function () {
         'Enter an adjective (e.g. playful):',
         'Enter an adjective (e.g. colorful):',
         'Enter a place (e.g. forest):',
-        'Enter a color (e.g. golden):',
+        'Enter a color (e.g. red):',
         'Enter a body part (e.g. tail):',
         'Enter an action verb (e.g. dancing):',
         'Enter a number (e.g. three):',
